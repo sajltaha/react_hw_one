@@ -1,0 +1,13 @@
+.productThree {
+    width: 160px;
+    height: 148px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.2s;
+}
+
+.productThree:hover {
+    background: #FBF9F3;
+    transition: 0.2s;
+}

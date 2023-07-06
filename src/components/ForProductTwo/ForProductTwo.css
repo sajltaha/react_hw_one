@@ -1,0 +1,10 @@
+.productTwo {
+    margin: 26px 0 0 0;
+    background: rgba(255, 255, 255, 1);
+    width: 87px;
+    height: 87px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.10);
+}

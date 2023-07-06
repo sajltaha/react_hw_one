@@ -1,0 +1,31 @@
+footer {
+    width: 1440px;
+    margin: 0 auto;
+    background: url("../../../public/img/footerbg.svg") no-repeat;
+    height: 506px;
+}
+
+.footer__blur {
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.72);
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.footer__ttl p {
+    color: #424346;
+    font-size: 45px;
+    font-family: Potta One;
+    font-weight: 400;
+    letter-spacing: -1.575px;
+    margin: 61px 0 0 0;
+}
+
+.footer__content {
+    width: 1139px;
+    height: 217px;
+    display: flex;
+    margin: 44px 0 0 0;
+}

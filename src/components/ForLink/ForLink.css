@@ -1,0 +1,25 @@
+.footer__content__col {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+}
+
+.footer__content__col__ttl p {
+    color: #000;
+    font-size: 24px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 224.682%;
+    letter-spacing: -0.84px;
+}
+
+.fus{
+    height: 172px;
+    margin: 0 0 0 196px;
+}
+.com {
+    margin: 0 0 0 146px;
+}
+.uli {
+    margin: 0 0 0 243px;
+}

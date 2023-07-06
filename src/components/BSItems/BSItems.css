@@ -1,0 +1,41 @@
+.bsi__bg {
+    margin: 0 -545px 0 0;
+    width: 895px;
+    height: 260px;
+    background: #F6F6F6;
+}
+
+.bsi__title {
+    position: relative;
+    color: #3A3A3A;
+    font-size: 40px;
+    font-family: Federo;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 0.8px;
+    margin: -231px 0 0 0;
+}
+
+.bsi__productsrow {
+    position: relative;
+    margin: 41px 0 0 0;
+    width: 1110px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bsi__productsRowTwo {
+    margin: 30px 0 0 0;
+    width: 1110px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bsi {
+    width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    padding: 0 0 148px 0;
+}

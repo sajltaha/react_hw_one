@@ -1,0 +1,21 @@
+a {
+    color: #8A8A8A;
+    font-size: 20px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 224.682%;
+    letter-spacing: -0.7px;
+}
+
+.type__dif {
+    display: flex;
+    align-items: center;
+}
+
+.type__dif a {
+    margin: 0 0 0 11.51px;
+}
+
+.type__dif img {
+    cursor: pointer;
+}

@@ -1,0 +1,85 @@
+header {
+    width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    padding: 25px 0 0 0;
+}
+
+.header__navbar {
+    width: 1110.2px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+}
+
+.header__navbar__logo p {
+    color: #565759;
+    font-size: 38px;
+    font-family: Potta One;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1.33px;
+    cursor: pointer;
+}
+
+.header__navbar__menu ul {
+    width: 434px;
+    height: 22px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 0 0 247px;
+}
+
+.header__navbar__functions {
+    margin: 0 0 0 196px;
+    cursor: pointer;
+}
+
+.header__content {
+    margin: 59px 0 0 0;
+    width: 1110px;
+    height: 450px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.header__content__shopnow {
+    width: 390px;
+    height: 184px;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 103px 0 0 0;
+}
+
+.header__content__shopnow p {
+    color: #3A3A3A;
+    font-size: 50px;
+    font-family: Federo;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 1px;
+}
+
+.header__content__shopnow button {
+    width: 122px;
+    height: 38px;
+    background: #434343;
+    color: #FFF;
+    font-size: 16px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.56px;
+}
+
+.header__bg {
+    margin: -182px -545px 0 0;
+    width: 895px;
+    height: 237px;
+    background: #F6F6F6;
+}
